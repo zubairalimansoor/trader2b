@@ -3,7 +3,7 @@
 1- In your solution add reference to C# api dll provided by the support
 2- Create instance of HaywoodAPI
 3- call function connect with following parameters 
-  - Server IP or URL provided by support
+  - Server IP or URL something like xyz.trader2b.com (please get it from trader2B support)
   - your username
 4- Call function Login with username and password
 5- if login is successfull call following based on need to load trading accounnt details
