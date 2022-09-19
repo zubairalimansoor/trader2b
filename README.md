@@ -1,4 +1,4 @@
-# how to use <a href="https://trader2b.com/pricing/">trader2b</a> C# API for trading
+# how to use <a href="https://trader2b.com/pricing/">trader2B</a> C# API for trading
 
 1- In your solution add reference to C# api dll provided by the support
 2- Create instance of HaywoodAPI
